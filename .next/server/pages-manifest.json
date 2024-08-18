@@ -1,7 +1,1 @@
-{
-  "/_app": "pages/_app.js",
-  "/_error": "pages/_error.js",
-  "/_document": "pages/_document.js",
-  "/": "pages/index.js",
-  "/ermes": "pages/ermes.js"
-}
+{"/_app":"pages/_app.js","/_error":"pages/_error.js","/_document":"pages/_document.js","/about-us/components/AboutCategories/AboutCategories":"pages/about-us/components/AboutCategories/AboutCategories.html","/about-us/components/AboutCommited/AboutCommited":"pages/about-us/components/AboutCommited/AboutCommited.html","/about-us/components/AboutHeader/AboutHeader":"pages/about-us/components/AboutHeader/AboutHeader.html","/about-us/components/AboutExprince/AboutExprince":"pages/about-us/components/AboutExprince/AboutExprince.html","/about-us/components/AboutJoinUs/AboutJoinUs":"pages/about-us/components/AboutJoinUs/AboutJoinUs.html","/about-us":"pages/about-us.html","/api/hello":"pages/api/hello.js","/":"pages/index.html","/ermes":"pages/ermes.html","/404":"pages/404.html"}
